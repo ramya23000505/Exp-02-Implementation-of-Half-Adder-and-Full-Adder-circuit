@@ -38,17 +38,17 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
-### 
-Program:
+### Program:
+
 HALF ADDER:
+
 ![Screenshot 2023-12-02 144838](https://github.com/ramya23000505/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149370791/118e1ca3-2eb6-4c19-9c9b-cb34c4907df1)
+
 FULL ADDER:
+
 ![Screenshot 2023-12-02 144849](https://github.com/ramya23000505/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149370791/85b61c37-e428-4836-8b0f-6e3b11b455b5)
 
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
+### TRUTH TABLE
 
 HALF ADDER:
 
@@ -59,6 +59,7 @@ FULL ADDER:
 ![Screenshot 2023-12-02 144914](https://github.com/ramya23000505/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149370791/443fba95-a3a6-4040-aed0-e59f166c6a4a)
 
 RTL realization
+### RTL
 
 HALF ADDER:
 
@@ -70,7 +71,7 @@ FULL ADDER:
 ![Screenshot 2023-12-02 144933](https://github.com/ramya23000505/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149370791/d426f442-2fcf-4627-a99a-658c5b2f3a47)
 
 ### Output:
-### RTL
+
 ### TIMING DIAGRAM
 
 HALF ADDER:
@@ -83,6 +84,6 @@ FULL ADDER:
 
 
 
-### TRUTH TABLE 
+
 
 ### Result:
