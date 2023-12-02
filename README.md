@@ -49,23 +49,36 @@ Developed by:
 RegisterNumber:  
 */
 Logic symbol & Truthtable
+
 HALF ADDER:
+
 ![Screenshot 2023-12-02 144902](https://github.com/ramya23000505/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149370791/dbc8fc5e-30a1-47d1-869c-bdb8e38d8f97)
+
 FULL ADDER:
+
 ![Screenshot 2023-12-02 144914](https://github.com/ramya23000505/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149370791/443fba95-a3a6-4040-aed0-e59f166c6a4a)
 
 RTL realization
+
 HALF ADDER:
+
+
 ![Screenshot 2023-12-02 144925](https://github.com/ramya23000505/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149370791/8cd3ad0c-a0bd-40ed-a515-7baa3901688d)
+
 FULL ADDER:
+
 ![Screenshot 2023-12-02 144933](https://github.com/ramya23000505/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149370791/d426f442-2fcf-4627-a99a-658c5b2f3a47)
 
 ### Output:
 ### RTL
 ### TIMING DIAGRAM
+
 HALF ADDER:
+
 ![Screenshot 2023-12-02 145049](https://github.com/ramya23000505/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149370791/1ff3c054-8304-4a60-b7df-6a2bce2c360f)
+
 FULL ADDER:
+
 ![Screenshot 2023-12-02 145100](https://github.com/ramya23000505/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149370791/73b5c4c3-78fd-4a3e-aab2-75db105a386f)
 
 
